@@ -3,7 +3,7 @@
 // April 2020
 
 function myFunction() {
-    var line_number = Math.trunc(132 * Math.random());
+    var line_number = Math.trunc(131 * Math.random());
 
     var list_of_tweets = 
     [
